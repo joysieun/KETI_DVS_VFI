@@ -32,7 +32,7 @@ Modify the dataset path in params/Paths/BDERGB.py to point to your ```Local PATH
 
 ## Inference model (x5 interpolation)
 ```bash
-$ python3 run_network.py --param_name traintest_BSERGB_x5AdamwithLPIPS --model_name Expv8_large --model_pretrained <pretrained_model_weight path> --skip_training
+$ python run_network.py --param_name traintest_BSERGB_x5AdamwithLPIPS --model_name Expv8_large --model_pretrained <pretrained_model_weight path> --skip_training
 ```
 
 
