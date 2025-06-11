@@ -13,7 +13,7 @@ $ cd weights
 ```
 Place downloaded weights under "./weights" folder.
 
-2. Download Link: [Public Dataset_BSERGB]()
+2. Download Link: [Public Dataset_BSERGB](https://drive.google.com/file/d/1DPY0G1sr2TfP_Pt0rZpSgmCNIwbwtbNe/view?usp=sharing)
 
  ```bash
 $ cd dataset
